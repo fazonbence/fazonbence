@@ -1,6 +1,6 @@
 ### Hello there 👋
-I am about to finish my joint master's degree in Data Science at Aalto University.
-Currently, I am looking for a preferably full-time position where I could work on my thesis. 
+I am about to finish my joint master's degree in Data Science at Aalto University.<br>
+Currently, I am looking for a preferably full-time position where I could work on a thesis topic as well. 
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/bence-fazekas-3197a8215)
