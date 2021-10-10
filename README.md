@@ -3,7 +3,8 @@ I am about to finish my joint master's degree in Data Science at Aalto Universit
 Currently, I am looking for a preferably full-time position where I could work on a thesis topic as well. 
 
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/bence-fazekas-3197a8215)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      />](https://www.linkedin.com/in/bence-fazekas-3197a8215)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:fazon.bence@gmail.com)
 
 <br>
